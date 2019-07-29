@@ -1,0 +1,41 @@
+*foreground: #CDD3D4
+*foreground-bold: #FFFFFE
+*background: #263339
+
+!! black
+*color0:  #000000
+*color8:  #8A8A8A
+!! red
+*color1:  #F0433C
+*color9:  #E27375
+!! green
+*color2:  #50AE54
+*color10: #83C686
+!! yellow
+*color3:  #FDEA4C
+*color11: #FDF07E
+!! blue
+*color4:  #3498F0
+*color12: #6BB6F3
+!! magenta
+*color5:  #9B2DA6
+*color13: #B96AC6
+!! cyan
+*color6:  #27BCC9
+*color14: #57D0DF
+!! white
+*color7:  #B3B3AB
+*color15: #FFFFFF
+
+URxvt.intensityStyles:	false
+URxvt.background:       [95]#1b1918
+URxvt.depth:			32
+URxvt.font: 			xft:dina:size=10
+URxvt.scrollBar:		false
+URxvt.cursorColor: 		white
+
+xterm.background:       [95]#1b1918
+xterm.depth:			32
+xterm.font: 			xft:dina:size=10
+xterm.scrollBar:		false
+xterm.cursorColor: 		white

@@ -1,0 +1,1178 @@
+Feb 07 17:57 : exception: Failed to access /home/mab/Music: No such file or directory
+Feb 07 17:57 : exception: Failed to open /home/mab/.config/mpd/state: No such file or directory
+Feb 07 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 07 18:05 : client: [0] opened from [::1]:34552
+Feb 07 18:05 : client: [0] closed
+Feb 07 18:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 07 18:23 : client: [0] opened from [::1]:34688
+Feb 07 18:23 : client: [0] closed
+Feb 07 18:23 : client: [1] opened from [::1]:34690
+Feb 07 18:23 : client: [1] closed
+Feb 07 18:23 : client: [2] opened from [::1]:34692
+Feb 07 18:23 : client: [2] closed
+Feb 07 18:26 : client: [3] opened from [::1]:34696
+Feb 07 18:26 : client: [3] closed
+Feb 07 18:26 : client: [4] opened from [::1]:34700
+Feb 07 18:26 : client: [4] closed
+Feb 07 18:39 : client: [5] opened from [::1]:34712
+Feb 07 18:39 : client: [5] closed
+Feb 07 19:15 : client: [6] opened from [::1]:34950
+Feb 07 19:15 : client: [6] closed
+Feb 07 19:17 : avahi: Client Disconnected, will reconnect shortly
+Feb 07 19:17 : avahi: Could not reconnect: Daemon not running
+Feb 07 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 07 23:02 : client: [0] opened from [::1]:59946
+Feb 07 23:02 : client: [0] closed
+Feb 07 23:02 : client: [1] opened from [::1]:59948
+Feb 07 23:02 : client: [1] closed
+Feb 07 23:02 : client: [2] opened from [::1]:59950
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Contact.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Beyond .mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Give Life Back to Music.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Within.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Giorgio by Moroder.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Motherboard.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Lose Yourself to Dance.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Doin' It Right.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - The Game of Love.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Get Lucky.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Fragments of Time.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Instant Crush.mp3
+Feb 07 23:03 : update: added Daft Punk/Random Access Memories/Daft Punk - Touch.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Digital Love.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - High Life.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Feb 07 23:03 : update: added Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Alive.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Around The World.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Funk Ad.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Daftendirekt.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Revolution 909.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - High Fidelity.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Rock'n Roll.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Rollin' & Scratchin'.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Wdpk 837 fm.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Phoenix.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Teachers.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Da Funk.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Fresh.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Indo Silver Club.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Burnin'.mp3
+Feb 07 23:03 : update: added Daft Punk/Homework/Daft Punk - Oh Yeah.mp3
+Feb 07 23:04 : client: [2] closed
+Feb 07 23:04 : client: [3] opened from [::1]:59952
+Feb 07 23:08 : client: [3] closed
+Feb 07 23:08 : client: [4] opened from [::1]:59958
+Feb 07 23:12 : client: [5] opened from [::1]:59966
+Feb 07 23:12 : client: [5] closed
+Feb 07 23:12 : client: [6] opened from [::1]:59968
+Feb 07 23:12 : client: [6] closed
+Feb 07 23:13 : client: [7] opened from [::1]:59970
+Feb 07 23:14 : client: [7] closed
+Feb 07 23:18 : player: played "Daft Punk/Discovery/Daft Punk - Digital Love.mp3"
+Feb 07 23:23 : player: played "Daft Punk/Homework/Daft Punk - Revolution 909.mp3"
+Feb 07 23:24 : client: [8] opened from [::1]:59972
+Feb 07 23:24 : client: [8] closed
+Feb 07 23:24 : client: [9] opened from [::1]:59974
+Feb 07 23:24 : client: [9] closed
+Feb 07 23:24 : client: [10] opened from [::1]:59976
+Feb 07 23:24 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Feb 07 23:24 : client: [10] closed
+Feb 07 23:24 : client: [11] opened from [::1]:59978
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [11] closed
+Feb 07 23:24 : client: [12] opened from [::1]:59980
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [12] closed
+Feb 07 23:24 : client: [13] opened from [::1]:59982
+Feb 07 23:24 : client: [13] closed
+Feb 07 23:24 : client: [14] opened from [::1]:59984
+Feb 07 23:24 : client: [14] closed
+Feb 07 23:24 : client: [15] opened from [::1]:59986
+Feb 07 23:24 : client: [15] closed
+Feb 07 23:24 : client: [16] opened from [::1]:59988
+Feb 07 23:24 : client: [16] closed
+Feb 07 23:24 : client: [17] opened from [::1]:59990
+Feb 07 23:24 : client: [17] closed
+Feb 07 23:24 : client: [18] opened from [::1]:59992
+Feb 07 23:24 : client: [18] closed
+Feb 07 23:24 : client: [19] opened from [::1]:59994
+Feb 07 23:24 : client: [19] closed
+Feb 07 23:24 : client: [20] opened from [::1]:59996
+Feb 07 23:24 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Feb 07 23:24 : client: [20] closed
+Feb 07 23:24 : client: [21] opened from [::1]:59998
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [21] closed
+Feb 07 23:24 : client: [22] opened from [::1]:60000
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [22] closed
+Feb 07 23:24 : client: [23] opened from [::1]:60002
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [23] closed
+Feb 07 23:24 : client: [24] opened from [::1]:60004
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [24] closed
+Feb 07 23:24 : client: [25] opened from [::1]:60006
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [25] closed
+Feb 07 23:24 : client: [26] opened from [::1]:60008
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [26] closed
+Feb 07 23:24 : client: [27] opened from [::1]:60010
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [27] closed
+Feb 07 23:24 : client: [28] opened from [::1]:60012
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [28] closed
+Feb 07 23:24 : client: [29] opened from [::1]:60014
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [29] closed
+Feb 07 23:24 : client: [30] opened from [::1]:60016
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [30] closed
+Feb 07 23:24 : client: [31] opened from [::1]:60018
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [31] closed
+Feb 07 23:24 : client: [32] opened from [::1]:60020
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [32] closed
+Feb 07 23:24 : client: [33] opened from [::1]:60022
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [33] closed
+Feb 07 23:24 : client: [34] opened from [::1]:60024
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [34] closed
+Feb 07 23:24 : client: [35] opened from [::1]:60026
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [35] closed
+Feb 07 23:24 : client: [36] opened from [::1]:60028
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [36] closed
+Feb 07 23:24 : client: [37] opened from [::1]:60030
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [37] closed
+Feb 07 23:24 : client: [38] opened from [::1]:60032
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [38] closed
+Feb 07 23:24 : client: [39] opened from [::1]:60034
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [39] closed
+Feb 07 23:24 : client: [40] opened from [::1]:60036
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [40] closed
+Feb 07 23:24 : client: [41] opened from [::1]:60038
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [41] closed
+Feb 07 23:24 : client: [42] opened from [::1]:60040
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [42] closed
+Feb 07 23:24 : client: [43] opened from [::1]:60042
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [43] closed
+Feb 07 23:24 : client: [44] opened from [::1]:60044
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [44] closed
+Feb 07 23:24 : client: [45] opened from [::1]:60046
+Feb 07 23:24 : exception: Not playing
+Feb 07 23:24 : client: [45] closed
+Feb 07 23:24 : client: [46] opened from [::1]:60048
+Feb 07 23:24 : client: [46] closed
+Feb 07 23:24 : client: [47] opened from [::1]:60050
+Feb 07 23:24 : client: [47] closed
+Feb 07 23:24 : client: [48] opened from [::1]:60052
+Feb 07 23:24 : client: [48] closed
+Feb 07 23:29 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Feb 07 23:29 : client: [49] opened from [::1]:60054
+Feb 07 23:29 : client: [49] closed
+Feb 07 23:30 : client: [50] opened from [::1]:60056
+Feb 07 23:30 : client: [50] closed
+Feb 07 23:39 : client: [4] closed
+Feb 08 00:00 : avahi: Client Disconnected, will reconnect shortly
+Feb 08 00:00 : avahi: Could not reconnect: Daemon not running
+Feb 08 00:00 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 08 11:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 08 11:29 : client: [0] opened from [::1]:50146
+Feb 08 11:29 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 08 11:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 08 11:32 : client: [0] opened from [::1]:50856
+Feb 08 11:32 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 15:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 15:55 : client: [0] opened from [::1]:48056
+Feb 09 15:56 : client: [1] opened from [::1]:48058
+Feb 09 15:56 : client: [1] closed
+Feb 09 15:56 : client: [2] opened from [::1]:48060
+Feb 09 15:56 : client: [2] closed
+Feb 09 15:56 : client: [3] opened from [::1]:48062
+Feb 09 15:56 : client: [3] closed
+Feb 09 15:56 : client: [4] opened from [::1]:48064
+Feb 09 15:56 : client: [4] closed
+Feb 09 15:56 : client: [5] opened from [::1]:48072
+Feb 09 15:56 : client: [5] closed
+Feb 09 15:56 : client: [6] opened from [::1]:48074
+Feb 09 15:56 : client: [6] closed
+Feb 09 15:56 : client: [0] closed
+Feb 09 15:57 : client: [7] opened from [::1]:48078
+Feb 09 15:57 : client: [8] opened from [::1]:48080
+Feb 09 15:57 : client: [8] closed
+Feb 09 15:57 : client: [7] closed
+Feb 09 15:57 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 15:59 : avahi: Initializing interface
+Feb 09 15:59 : avahi: Client changed to state 101
+Feb 09 15:59 : avahi: Client is CONNECTING
+Feb 09 15:59 : state_file: Loading state file /home/mab/.config/mpd/state
+Feb 09 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 15:59 : playlist: queue song 1:"Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3"
+Feb 09 15:59 : decoder_thread: probing plugin mad
+Feb 09 15:59 : mad: detected LAME version 3.99 ("LAME3.99r")
+Feb 09 15:59 : mad: LAME peak found: 0.000000
+Feb 09 15:59 : mad: encoder delay is 576, encoder padding is 0
+Feb 09 15:59 : decoder: audio_format=48000:24:2, seekable=true
+Feb 09 15:59 : client: [0] opened from [::1]:48104
+Feb 09 15:59 : client: [0] process command "status"
+Feb 09 15:59 : client: [0] command returned 0
+Feb 09 15:59 : client: [0] process command "plchanges "0""
+Feb 09 15:59 : client: [0] command returned 0
+Feb 09 15:59 : client: [0] process command "outputs"
+Feb 09 15:59 : client: [0] command returned 0
+Feb 09 15:59 : client: [0] process command "decoders"
+Feb 09 15:59 : client: [0] command returned 0
+Feb 09 15:59 : client: [0] process command "outputs"
+Feb 09 15:59 : client: [0] command returned 0
+Feb 09 15:59 : client: [0] process command "outputs"
+Feb 09 15:59 : client: [0] command returned 0
+Feb 09 15:59 : client: [0] process command "idle"
+Feb 09 15:59 : client: [0] command returned 1
+Feb 09 15:59 : client: [0] closed
+Feb 09 16:00 : state_file: Saving state file /home/mab/.config/mpd/state
+Feb 09 16:00 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 16:00 : avahi: Shutting down interface
+Feb 09 16:00 : listen: listen_global_finish called
+Feb 09 16:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 16:00 : client: [0] opened from [::1]:48106
+Feb 09 16:00 : client: [0] closed
+Feb 09 16:00 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 16:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 16:06 : client: [0] opened from [::1]:40990
+Feb 09 16:06 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 16:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 16:06 : client: [0] opened from [::1]:41016
+Feb 09 16:07 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 16:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 16:59 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 09 17:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 09 17:19 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 11 13:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Function not implemented
+Feb 11 13:19 : client: [0] opened from [::1]:54722
+Feb 11 13:21 : client: [0] closed
+Feb 11 13:24 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Feb 11 13:26 : client: [1] opened from [::1]:54724
+Feb 11 13:27 : player: played "Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3"
+Feb 11 13:30 : client: [1] closed
+Feb 11 13:32 : player: played "Daft Punk/Discovery/Daft Punk - Digital Love.mp3"
+Feb 11 13:36 : player: played "Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3"
+Feb 11 13:39 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Feb 11 13:41 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Feb 11 13:45 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Feb 11 13:48 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Feb 11 13:52 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Feb 11 13:56 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Feb 11 14:02 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Feb 11 14:02 : client: [2] opened from [::1]:55006
+Feb 11 14:21 : client: [2] closed
+Feb 11 14:21 : avahi: Client Disconnected, will reconnect shortly
+Feb 11 14:21 : avahi: Could not reconnect: Daemon not running
+Feb 11 14:21 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Jul 22 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 22 16:30 : avahi: Client Disconnected, will reconnect shortly
+Jul 22 16:30 : avahi: Could not reconnect: Daemon not running
+Jul 22 16:30 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 12 14:09 : avahi: Failed to create client: Daemon not running
+Aug 12 14:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 14:09 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 12 14:09 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 12 14:09 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 12 14:09 : client: [0] opened from [::1]:44316
+Aug 12 14:09 : exception: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Digital Love.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 12 14:14 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 12 14:14 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 12 14:14 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Digital Love.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Digital Love.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 12 14:15 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 12 14:15 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 12 14:15 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 12 14:15 : client: [0] closed
+Aug 15 17:41 : avahi: Failed to create client: Daemon not running
+Aug 15 17:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 17:41 : client: [0] opened from [::1]:35168
+Aug 15 17:41 : exception: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Aug 15 17:41 : client: [0] closed
+Aug 15 21:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 21:33 : client: [0] opened from [::1]:35286
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:33 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:33 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:33 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : client: [0] closed
+Aug 15 21:34 : client: [1] opened from [::1]:35308
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:34 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:34 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:34 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Digital Love.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Digital Love.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Nightvison.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Nightvison.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Superheroes.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Superheroes.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - High Life.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - High Life.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Something About Us.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Something About Us.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Voyager.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Voyager.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Short Circuit.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Short Circuit.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Face To Face.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Face To Face.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Too Long.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Too Long.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:35 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Aug 15 21:35 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - One More Time.mp3: No such file or directory
+Aug 15 21:35 : player: played "Daft Punk/Discovery/Daft Punk - One More Time.mp3"
+Aug 15 21:36 : client: [1] closed
+Aug 15 21:36 : client: [2] opened from [::1]:35318
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:36 : exception: Failed to decode /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Aug 15 21:36 : exception: nested: Failed to open /home/mab/Music/Daft Punk/Discovery/Daft Punk - Crescendolls.mp3: No such file or directory
+Aug 15 21:36 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 21:37 : exception: Bad playlist name
+Aug 15 21:38 : client: [2] closed
+Aug 15 21:41 : player: played "Daft Punk/Discovery/Daft Punk - Crescendolls.mp3"
+Aug 15 22:48 : avahi: Client Disconnected, will reconnect shortly
+Aug 15 22:48 : avahi: Could not reconnect: Daemon not running
+Feb 28 21:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Indo Silver Club.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Rock'n Roll.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Teachers.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Oh Yeah.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Phoenix.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Around The World.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Revolution 909.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Da Funk.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Fresh.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Rollin' & Scratchin'.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Funk Ad.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Daftendirekt.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - High Fidelity.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Alive.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Wdpk 837 fm.mp3
+Feb 28 21:26 : update: added Daft Punk/Homework/Daft Punk - Burnin'.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Nightvison.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Short Circuit.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Harder Better Faster Stronger.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Face To Face.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Something About Us.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Veridis Quo.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - One More Time.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Digital Love.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Superheroes.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Voyager.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Too Long.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Crescendolls.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - High Life.mp3
+Feb 28 21:26 : update: added Daft Punk/Discovery/Daft Punk - Aerodynamics.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Instant Crush.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Touch.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Within.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Motherboard.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Fragments of Time.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Beyond .mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Doin' It Right.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Get Lucky.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Contact.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - The Game of Love.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Lose Yourself to Dance.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Give Life Back to Music.mp3
+Feb 28 21:26 : update: added Daft Punk/Random Access Memories/Daft Punk - Giorgio by Moroder.mp3
+Feb 28 21:27 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 21:27 : avahi: Could not reconnect: Daemon not running

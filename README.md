@@ -19,12 +19,13 @@ These are the dotfiles for my current workspace configuration. I use [stow](http
 Typically no installation is required because config files are just placed into a particular directory specified by the corresponding program. For most programs it's your home directory `~` or a directory in `~/.config`.
 
 However stow needs a particular directory structure which specifies where to place the files in your file tree. Use the following instructions to adopt it:
-* Save the repo into a folder in your home directory 
+1. Save the repo into a folder in your home directory 
 `git clone https://gitlab.com/t4ko/dotfiles.git'
-* Change your working directory to the cloned folder
+1. Change your working directory to the cloned folder
 `cd dotfiles`
-* Symlink the files for the specified program into your directory structure using stow
-'stow <program>`
+1. Symlink the files for the specified program into your directory structure using stow
+`stow <program>`
+
 To install all files use
 `stow *` instead 
 

@@ -1,5 +1,5 @@
 " vim:foldmethod=marker:foldlevel=0
-" Manuel Breiden's vimrc
+" t4ko's vimrc
 
 syntax enable			" enable syntax processing
 colorscheme default

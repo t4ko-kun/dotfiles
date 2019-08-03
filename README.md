@@ -5,6 +5,7 @@ These are the dotfiles for my current workspace configuration. I use [stow](http
 
 + spectrwm
 + i3 (i3-gaps)
++ spacemacs
 + vim/neovim
 + bash
 + X11

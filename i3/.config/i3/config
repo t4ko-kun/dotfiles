@@ -13,7 +13,7 @@ set $ogaps 10
 set $term st
 set $browser firefox
 set $files ranger
-set $editor vim
+set $editor emacs
 set $reader mupdf
 set $music ncmpcpp
 set $lock ~/.config/i3/i3lock.sh
@@ -30,11 +30,11 @@ font pango:mono 9
 
 #-Colors-#
 # class					border	backgr.	text	indicator	child_border
-client.focused			#000000	#000000	#000000	#003300		#CCCCCC
+client.focused			    #000000	#000000	#000000	#003300		#CCCCCC
 client.focused_inactive #000000	#000000	#000000	#003300		#222222
-client.unfocused		#000000	#000000	#000000	#003300		#222222
-client.urgent			#000000	#000000	#000000	#003300		#FF0000
-client.placeholder		#000000	#000000	#000000	#003300		#000000
+client.unfocused		    #000000	#000000	#000000	#003300		#222222
+client.urgent			      #000000	#000000	#000000	#003300		#FF0000
+client.placeholder		  #000000	#000000	#000000	#003300		#000000
 
 # Dropdown/Scratchpad Windows
 # For urxvt
@@ -133,7 +133,7 @@ bindsym $mod+q        kill
 bindsym $mod+r        exec --no-startup-id dmenu_run
 #bindsym $mod+Shift+r
 
-bindsym $mod+t        exec --no-startup-id $term -e $editor
+bindsym $mod+t        exec --no-startup-id $editor
 #bindsym $mod+Shift+t
 
 #bindsym $mod+z

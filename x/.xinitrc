@@ -39,4 +39,5 @@ fi
 setxkbmap de
 setroot $HOME/.config/wall.png
 compton &
+emacs --daemon
 exec spectrwm

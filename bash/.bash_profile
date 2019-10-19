@@ -9,6 +9,6 @@ export EDITOR="emacsclient -c"
 # Get the aliases and functions
 [ -f $HOME/.bashrc ] && . $HOME/.bashrc
 
-if [ -z "$DISPLAY" ] && [ "$(fgconsole)" -eq 1 ]; then
+if [ -z "$DISPLAY" ]; then
 	exec startx
 fi

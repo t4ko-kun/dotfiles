@@ -1,6 +1,6 @@
 # t4ko's .bashrc
 
-alias ls='ls -C --color=auto'
+alias ls='ls -C -G --color=auto'
 alias l='ls'
 alias ll='ls -hl'
 alias la='ll -A'
@@ -37,7 +37,15 @@ alias irc='weechat'
 #alias groups='/etc/groups'
 #alias sudoers='/etc/sudoers'
 
-PS1='\n┌[\e[1;39m\u\e[m@\e[1;31m\h\e[m]-[\e[1;34m\w\e[m]\nλ '
+git_info() {
+	curr_branch=$(git rev-parse --abbrev-ref HEAD 2> /dev/null);
+	curr_remote=$(git config branch.$curr_branch.remote);
+	curr_merge_branch=$(git config branch.$curr_branch.merge | cut -d / -f 3)
+	ahead_behind=$(git rev-list --left-right --count $curr_remote/$curr_merge_branch...$curr_branch 2> /dev/null| sed -e 's/\([0-9]\)/↓\1/1' -e 's/\([0-9]\)/↑\1/2')
+	( echo -n $curr_branch || echo -n " "; echo -n $ahead_behind; ) | sed 's/\([a-zA-Z]*\)\(.*\)/─( \1 \2)/'
+}
+
+PS1='\n┌[\e[1;39m\u\e[m@\e[1;31m\h\e[m]─[\e[1;34m\w\e[m]$(git_info)\nλ '
 #╼
 set -o vi
 bind 'set show-mode-in-prompt on'

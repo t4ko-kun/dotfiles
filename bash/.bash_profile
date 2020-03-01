@@ -1,13 +1,11 @@
 # .bash_profile
 
-PATH="$PATH:$HOME/Programs"
-PATH="$PATH:$HOME/Scripts"
-export PATH
-
+export PATH="$PATH:$HOME/Programs"
+export PATH="$PATH:$HOME/Scripts"
 export EDITOR="nvim"
 
-# Get the aliases and functions
-[ -f $HOME/.bashrc ] && . $HOME/.bashrc
+# Get aliases and functions from .bashrc
+[ -f $HOME/.bashrc ] && source $HOME/.bashrc
 
 if [ -z "$DISPLAY" ]; then
 	exec startx

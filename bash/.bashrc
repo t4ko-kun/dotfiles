@@ -1,5 +1,8 @@
 # t4ko's .bashrc
 
+# allow to omit 'cd' to change directories
+shopt -s autocd
+
 alias ls='ls -C -G --color=auto'
 alias l='ls'
 alias ll='ls -hl'

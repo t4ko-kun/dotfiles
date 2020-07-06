@@ -38,5 +38,4 @@ fi
 
 hsetroot -sane $HOME/.config/wall.png
 compton &
-emacs --daemon
 exec spectrwm

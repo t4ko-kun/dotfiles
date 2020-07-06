@@ -37,6 +37,7 @@ alias wlan='nmcli dev wifi list'
 alias wlan-rescan='nmcli dev wifi rescan'
 alias irc='weechat'
 alias vi='nvim'
+alias vim='nvim'
 
 #alias groups='/etc/groups'
 #alias sudoers='/etc/sudoers'

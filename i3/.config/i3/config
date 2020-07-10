@@ -96,7 +96,7 @@ exec --no-startup-id compton --config $HOME/.config/compton/compton.conf
 #Unclutter makes the mouse invisible after a brief period
 exec --no-startup-id unclutter -idle 1 -jitter 1
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always --no-startup-id setroot ~/.config/wall.png
+exec_always --no-startup-id hsetroot -sane ~/.config/wall.png
 exec_always --no-startup-id setxkbmap de
 
 

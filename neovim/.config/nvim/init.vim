@@ -3,6 +3,11 @@
 
 let mapleader=" "
 
+call plug#begin()		" specify installed plugins
+Plug 'mhinz/vim-signify'
+Plug 'jreybert/vimagit'
+call plug#end()
+
 syntax enable			" enable syntax processing
 filetype indent on		" load filetype-specific indent files
 set encoding=utf-8

@@ -8,6 +8,8 @@ Plug 'mhinz/vim-signify'
 Plug 'jreybert/vimagit'
 call plug#end()
 
+runtime freebsd.vim		" source freebsd style(9) configurations
+
 syntax enable			" enable syntax processing
 filetype indent on		" load filetype-specific indent files
 set encoding=utf-8

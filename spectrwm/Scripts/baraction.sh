@@ -64,25 +64,26 @@ bat() {
 	bat_status="$(apm -b)"
 	bat_charge="$(apm -l)"
 	
-	if [ $ac == 1 & $bat_status == 3 ]
+	if [ $ac == 1 ]
 	then
-		echo -e "+@fn=1; +@fn=0;$bat_charge%"
-		exit
-	elif [ $ac == 1 ]
-	then
+		if [ $bat_status == 3 ]
+		then
+			echo -e "+@fn=1; +@fn=0;$bat_charge%"
+			exit
+		fi
 		echo -e "+@fn=1; +@fn=0;"
 		exit
 	fi
 
 	case "$bat_status" in
 		# high
-		"0") echo -e "+@fn=1; +@fn=0;$(bat_charge)"
+		"0") echo -e "+@fn=1; +@fn=0;$bat_charge%"
 		;;
 		# low
-		"1") echo -e "+@fn=1; +@fn=0;$(bat_charge)"
+		"1") echo -e "+@fn=1; +@fn=0;$bat_charge%"
 		;;
 		# critical
-		"2") echo -e "+@fn=1; +@fn=0;$(bat_charge)"
+		"2") echo -e "+@fn=1; +@fn=0;$bat_charge%"
 		;;
 	esac
 }
@@ -92,6 +93,7 @@ SLEEP_SEC=5
 while :; do     
 	#This bar has icons and requires font-awesome package to be installed and declared as a secondary font in spectrwm.config
     # echo "+@fn=1; +@fn=0;$(cpu) |  +@fn=1; +@fn=0;$(mem) |  +@fn=1;+@fn=0;$(pkgs) |  +@fn=1;+@fn=0;$(upgrades) |   +@fn=1;+@fn=0;$(hdd) | NETWORK  +@fn=1;+@fn=0;$(ssid) |  +@fn=1;+@fn=0;$(vol) | $(weather) $(temp)"
-	echo "+@fn=1; +@fn=0;$(vol) | +@fn=1; +@fn=0;$(upgrades) | +@fn=1; +@fn=0;$(ssid) | +@fn=1; +@fn=0;$(mem) | +@fn=1;龍 +@fn=0;$(cpu) | +@fn=1; +@fn=0;$(temp) | $(bat)"
+	# echo "+@fn=1; +@fn=0;$(vol) | +@fn=1; +@fn=0;$(upgrades) | +@fn=1; +@fn=0;$(ssid) | +@fn=1; +@fn=0;$(mem) | +@fn=1;龍 +@fn=0;$(cpu) | +@fn=1; +@fn=0;$(temp) | $(bat)"
+	echo "+@fn=1; +@fn=0;$(vol) | +@fn=1; +@fn=0;$(upgrades) | +@fn=1; +@fn=0;$(ssid) | +@fn=1; +@fn=0;$(temp) | $(bat)"
 	sleep $SLEEP_SEC
 done

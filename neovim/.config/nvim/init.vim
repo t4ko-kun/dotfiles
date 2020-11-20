@@ -1,14 +1,20 @@
 " vim:foldmethod=marker:foldlevel=0
 " t4ko's vimrc
 
-let mapleader=" "
-
 call plug#begin()		" specify installed plugins
-Plug 'mhinz/vim-signify'
-Plug 'jreybert/vimagit'
+	Plug 'jiangmiao/auto-pairs'
+	Plug 'ap/vim-css-color'
+	Plug 'jreybert/vimagit'
+	Plug 'mhinz/vim-signify'
+	Plug 'liuchengxu/vim-which-key'
 call plug#end()
 
 runtime freebsd.vim		" source freebsd style(9) configurations
+
+let g:mapleader = "\<Space>"
+let g:maplocalleader = ','
+nnoremap <silent> <leader>      :<c-u>WhichKey '<Space>'<CR>
+nnoremap <silent> <localleader> :<c-u>WhichKey  ','<CR>
 
 set path=$PWD/** 		" when opening a file search all subdirectories
 syntax enable			" enable syntax processing

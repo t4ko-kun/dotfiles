@@ -53,7 +53,7 @@ set foldlevelstart=10	" open n folds by default
 set foldnestmax=10		" maximum fold depth of n
 " }}}
 
-" Statusbar {{{
+" Statusline {{{
 function! GitBranch()
   return system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
 endfunction
@@ -64,17 +64,22 @@ function! StatuslineGit()
 endfunction
 
 set statusline=
+set statusline+=%#PmenuSel#
+set statusline+=\ %n\ 
+set statusline+=%#Normal#
 set statusline+=\ \ %f
 set statusline+=%m\ 
-set statusline+=%#PmenuSel#
-set statusline+=\ %{StatuslineGit()}
-set statusline+=%#Normal#
+if GitBranch() != ""
+	set statusline+=%#PmenuSel#
+	set statusline+=\ %{StatuslineGit()}\ 
+	set statusline+=%#Normal#
+endif
 set statusline+=%=
 set statusline+=%#CursorColumn#
 set statusline+=\ %y
 set statusline+=\ %{&fileencoding?&fileencoding:&encoding}
-set statusline+=\[%{&fileformat}\]
-set statusline+=\ %p%%
-set statusline+=\ %l:%c
+set statusline+=\ [%{&fileformat}\]
+set statusline+=\ 
+set statusline+=\ \ %l:%c\ (%p%%)
 set statusline+=\ 
 " }}}

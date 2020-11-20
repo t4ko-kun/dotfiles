@@ -31,6 +31,9 @@ cnoremap <F3> <C-c>:set list! list?<CR>
 
 noremap <F4> :nohl <CR>
 
+vnoremap > >gv
+vnoremap < <gv
+
 set number relativenumber
 
 set splitbelow splitright

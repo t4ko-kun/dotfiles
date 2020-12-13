@@ -38,6 +38,13 @@ cnoremap <F3> <C-c>:set list! list?<CR>
 
 noremap <F4> :nohl <CR>
 
+" use touch type friendly motion
+noremap ; l
+noremap l k
+noremap k j
+noremap j h
+
+" stay in visual mode when indenting blockwise
 vnoremap > >gv
 vnoremap < <gv
 

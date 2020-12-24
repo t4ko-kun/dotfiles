@@ -19,7 +19,7 @@ nnoremap <silent> <localleader> :<c-u>WhichKey  ','<CR>
 
 set path=$PWD/** 		" when opening a file search all subdirectories
 syntax enable			" enable syntax processing
-filetype indent on		" load filetype-specific indent files
+filetype plugin indent on		" load filetype-specific indent files
 set encoding=utf-8
 colorscheme default
 

@@ -58,7 +58,7 @@ map <C-k> <C-w>k
 map <C-l> <C-w>l
 
 set showcmd				" print command in navigation row
-"set cursorline
+set cursorline
 "set cursorcolumn
 
 " Folding {{{

@@ -7,6 +7,7 @@ call plug#begin()		" specify installed plugins
 	Plug 'jreybert/vimagit'
 	Plug 'mhinz/vim-signify'
 	Plug 'liuchengxu/vim-which-key'
+	Plug 'ap/vim-buftabline'
 call plug#end()
 
 runtime freebsd.vim		" source freebsd style(9) configurations

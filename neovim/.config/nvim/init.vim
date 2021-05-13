@@ -2,6 +2,9 @@
 " t4ko's vimrc
 
 call plug#begin()		" specify installed plugins
+	Plug 'neovim/nvim-lspconfig'
+	Plug 'nvim-lua/completion-nvim'
+	Plug 'nvim-treesitter/nvim-treesitter'
 	Plug 'jiangmiao/auto-pairs'
 	Plug 'ap/vim-css-color'
 	Plug 'jreybert/vimagit'
@@ -9,6 +12,13 @@ call plug#begin()		" specify installed plugins
 	Plug 'liuchengxu/vim-which-key'
 	Plug 'ap/vim-buftabline'
 call plug#end()
+
+set completeopt=menuone,noinsert,noselect
+lua require'lspconfig'.clangd.setup{ on_attach=require'completion'.on_attach }
+
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+" let g:completion_confirm_key = "\<CR>"
 
 runtime freebsd.vim		" source freebsd style(9) configurations
 

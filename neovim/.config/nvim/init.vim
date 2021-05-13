@@ -31,7 +31,7 @@ set path=$PWD/** 		" when opening a file search all subdirectories
 syntax enable			" enable syntax processing
 filetype plugin indent on		" load filetype-specific indent files
 set encoding=utf-8
-colorscheme default
+colorscheme sol
 
 set wildmode=longest,list,full " enable autocompletion in command mode
 

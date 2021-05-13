@@ -3,17 +3,18 @@ These are the dotfiles for my current workspace configuration. I use [stow](http
 
 ## Featured programs
 
-+ spectrwm
-+ i3 (i3-gaps)
-+ spacemacs
-+ vim/neovim
 + bash
-+ X11
-+ polybar
-+ neofetch
-+ ranger
-+ vifm
++ i3 (i3-gaps)
 + mpd
++ ncmpcpp
++ neofetch
++ polybar
++ ranger
++ spacemacs
++ spectrwm
++ vifm
++ vim/neovim
++ X11
 
 ## Installation
 

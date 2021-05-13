@@ -30,12 +30,12 @@
 URxvt.intensityStyles:	false
 URxvt.background:       [95]#1b1918
 URxvt.depth:			32
-URxvt.font: 			xft:dina:size=10
+URxvt.font: 			xft:Hack:size=9
 URxvt.scrollBar:		false
 URxvt.cursorColor: 		white
 
-xterm.background:       [95]#1b1918
-xterm.depth:			32
-xterm.font: 			xft:dina:size=10
+xterm.background:       #1b1918
+#xterm.depth:			32
+xterm.font: 			xft:Hack:size=9
 xterm.scrollBar:		false
 xterm.cursorColor: 		white

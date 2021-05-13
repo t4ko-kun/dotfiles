@@ -37,4 +37,5 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 exec setxkbmap -option compose:lwin &
+exec hsetroot -sane ~/.config/wall.png &
 exec spectrwm

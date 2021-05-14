@@ -22,10 +22,7 @@ inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
 
 runtime freebsd.vim		" source freebsd style(9) configurations
 
-let g:mapleader = "\<Space>"
-let g:maplocalleader = ','
-nnoremap <silent> <leader>      :<c-u>WhichKey '<Space>'<CR>
-nnoremap <silent> <localleader> :<c-u>WhichKey  ','<CR>
+runtime which-key.vim
 
 set path=$PWD/** 		" when opening a file search all subdirectories
 syntax enable			" enable syntax processing

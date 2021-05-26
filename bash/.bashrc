@@ -33,6 +33,8 @@ alias push='git push'
 alias fetch='git fetch' 
 alias rebase='git rebase' 
 
+alias lg='lazygit'
+
 alias wlan='nmcli dev wifi list'
 alias wlan-rescan='nmcli dev wifi rescan'
 alias irc='weechat'

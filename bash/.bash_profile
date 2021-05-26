@@ -2,7 +2,7 @@
 
 export PATH="$PATH:$HOME/Programs"
 export PATH="$PATH:$HOME/Scripts"
-export TERMINAL="st"
+export TERM="alacritty"
 export EDITOR="nvim"
 export READER="mupdf"
 export BROWSER="firefox"

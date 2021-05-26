@@ -1,2 +1,8 @@
 neovim/.config/nvim/plugged
 neovim/.config/nvim/.netrwhist
+
+mpd/.config/mpd/log
+mpd.condig/mpd/state
+spotifyd/.config/spotifyd/spotifyd.conf
+
+lazygit/.config/lazygit/state.yml

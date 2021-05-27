@@ -1,10 +1,17 @@
 # t4ko's Configuration and Dotfiles
-These are the dotfiles for my current workspace configuration. I use [stow](https://www.gnu.org/software/stow/) to keep all my dotfiles in one directory and conveniently switch between different configurations.
+These are the dotfiles for my current desktop configuration. I use [stow](https://www.gnu.org/software/stow/) to keep all my dotfiles in one directory and conveniently switch between different configurations.
+
+![](desktop.png)
 
 ## Featured programs
 
++ alacritty
 + bash
++ compton
 + i3 (i3-gaps)
++ lf
++ less
++ lazygit
 + mpd
 + ncmpcpp
 + neofetch
@@ -12,8 +19,10 @@ These are the dotfiles for my current workspace configuration. I use [stow](http
 + ranger
 + spacemacs
 + spectrwm
++ sway
 + vifm
 + vim/neovim
++ waybar
 + X11
 
 ## Installation

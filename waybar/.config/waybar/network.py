@@ -88,7 +88,7 @@ for interface in interfaces:
 
         else:
             alt = "lan"
-            text = "online" + "(no internet)"
+            text = "linked" + " (no internet)"
             tooltip = get_ip(interface)
 
             if ping():

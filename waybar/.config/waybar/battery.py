@@ -48,10 +48,13 @@ if status[Apm.ACLINE] == AC.OFFLINE:
     elif status[Apm.BATTERY] == Battery.CRITICAL:
         css_class = "critical"
 
-
-elif status[Apm.ACLINE] == AC.ONLINE and status[Apm.BATTERY] == Battery.CHARGING:
-    alt = "charging"
-    css_class = "charging"
+elif status[Apm.ACLINE] == AC.ONLINE:
+    if status[Apm.BATTERY] == Battery.CHARGING:
+        alt = "charging"
+        css_class = "charging"
+    elif not status[Apm.BATTERY] == Battery.CHARGING:
+        css_class = "high"
+        text = "Fully charged"
 
 data = {}
 data['text'] = text

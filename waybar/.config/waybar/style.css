@@ -75,12 +75,13 @@ window#waybar.solo {
 #mode,
 #custom-date,
 #custom-mixer,
+#custom-pkg,
 #custom-weather,
 #custom-network,
 #custom-battery,
 #idle_inhibitor {
     padding: 0 5px;
-    margin: 0px 5px;
+    margin: 0px 3px;
     color: #ffffff;
 }
 

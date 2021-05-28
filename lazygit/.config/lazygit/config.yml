@@ -51,7 +51,7 @@ refresher:
 reporting: undetermined
 splashUpdatesIndex: 0
 confirmOnQuit: false
-quitOnTopLevelReturn: true
+quitOnTopLevelReturn: false
 keybinding:
   universal:
     quit: q
@@ -74,7 +74,7 @@ keybinding:
     nextMatch: "n"
     prevMatch: "N"
     startSearch: /
-    optionMenu: x
+    optionMenu: h
     optionMenu-alt1: '?'
     select: <space>
     goInto: <enter>

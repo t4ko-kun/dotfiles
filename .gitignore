@@ -10,3 +10,5 @@ lazygit/.config/lazygit/state.yml
 mpd/.config/mpd/log
 mpd/.config/mpd/pid
 mpd/.config/mpd/state
+newsboat/.config/newsboat/urls
+newsboat/.config/newsboat/history.cmdline

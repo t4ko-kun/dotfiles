@@ -2,15 +2,20 @@
 " t4ko's vimrc
 
 call plug#begin()		" specify installed plugins
+	" Programming
 	Plug 'neovim/nvim-lspconfig'
 	Plug 'nvim-lua/completion-nvim'
 	Plug 'nvim-treesitter/nvim-treesitter'
 	Plug 'jiangmiao/auto-pairs'
 	Plug 'ap/vim-css-color'
+	" Version Control
 	Plug 'jreybert/vimagit'
 	Plug 'mhinz/vim-signify'
+	" Vim
 	Plug 'liuchengxu/vim-which-key'
 	Plug 'ap/vim-buftabline'
+	" Productivity
+	Plug 'vimwiki/vimwiki'
 call plug#end()
 
 set completeopt=menuone,noinsert,noselect

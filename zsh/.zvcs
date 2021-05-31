@@ -1,0 +1,57 @@
+#!/usr/local/bin/zsh
+# Prompt Configuration for Version Control Information
+add-zsh-hook precmd vcs_info_precmd
+
+vcs_info_precmd () {
+    vcs_info
+
+    if [[ -z "${vcs_info_msg_0_}" ]] then
+        dir_status="%F{2}→%f"
+    elif [[ -n "$(git diff --cached --name-status 2>/dev/null )" ]] then
+        dir_status="%F{1}▶%f"
+    elif [[ -n "$(git diff --name-status 2>/dev/null )" ]] then
+        dir_status="%F{3}▶%f"
+    else
+        dir_status="%F{2}▶%f"
+	fi
+}
+
+# Git Hooks
+# Show remote ref name and number of commits ahead-of or behind
+function +vi-git-st() {
+    local ahead behind remote
+    local -a gitstatus
+
+    # Are we on a remote-tracking branch?
+    remote=${$(git rev-parse --verify ${hook_com[branch]}@{upstream} \
+        --symbolic-full-name 2>/dev/null)/refs\/remotes\/}
+
+    if [[ -n ${remote} ]] ; then
+        ahead=$(git rev-list ${hook_com[branch]}@{upstream}..HEAD 2>/dev/null | wc -l | xargs echo)
+        (( $ahead )) && gitstatus+=( "%F{green} ${ahead}%f" )
+
+        behind=$(git rev-list HEAD..${hook_com[branch]}@{upstream} 2>/dev/null | wc -l | xargs echo)
+        (( $behind )) && gitstatus+=( " %F{red} ${behind}%f" )
+
+        #hook_com[branch]="${hook_com[branch]} [${remote} ${(j:/:)gitstatus}]"
+        hook_com[branch]="${hook_com[branch]} ${(j:/:)gitstatus}"
+    fi
+}
+
+# Show count of stashed changes
+function +vi-git-stash() {
+    local -a stashes
+
+    if [[ -s ${hook_com[base]}/.git/refs/stash ]] ; then
+        stashes=$(git stash list 2>/dev/null | wc -l)
+        hook_com[misc]+="and (${stashes} stashed)"
+    fi
+}
+
+# See the documentation for the format string definition
+# This generates a fancy coloured string with $vcs:($branch)
+zstyle ':vcs_info:*' enable git cvs svn darcs
+zstyle ':vcs_info:*' formats '─( %b %m)'
+zstyle ':vcs_info:git*:*' check-for-changes true
+zstyle ':vcs_info:git*:*' get-revision true
+zstyle ':vcs_info:git*+set-message:*' hooks git-st git-stash

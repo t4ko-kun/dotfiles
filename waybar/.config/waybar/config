@@ -203,7 +203,7 @@
 
 	"custom/pkg": {
         "format": " {}",
-        "interval": 3600,                     // update every hour
+        "interval": 2,                     // update every hour
         "exec": "pkg upgrade -n | grep 'Number of packages to be upgraded:' | awk '{printf $7}'", // # of updates
         "exec-if": "exit 0",                  // always run; consider advanced run conditions
         "on-click": "$TERM -e 'doas pkg upgrade'", // update system

@@ -23,7 +23,7 @@ compinit
 alias vi='nvim'
 alias vim='nvim'
 
-alias ls='ls -G'
+alias ls='ls --color=auto'
 alias l='ls'
 alias la='ls -a'
 alias ll='ls -l'

@@ -31,6 +31,7 @@ status = subprocess.check_output("apm -ablt", shell=True).decode("utf-8").split(
 # Convert from list of strings to list of ints
 status = list(map(int, status))
 
+data = {}
 text = str(status[Apm.PERCENTAGE]) + "%"
 alt = "draining"
 tooltip = ""
@@ -55,8 +56,10 @@ elif status[Apm.ACLINE] == AC.ONLINE:
     elif not status[Apm.BATTERY] == Battery.CHARGING:
         css_class = "high"
         text = "Fully charged"
+    else:
+        # AC without any battery
+        return
 
-data = {}
 data['text'] = text
 data['alt'] = alt
 data['tooltip'] = tooltip

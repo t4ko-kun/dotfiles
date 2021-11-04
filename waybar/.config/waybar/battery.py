@@ -58,7 +58,7 @@ elif status[Apm.ACLINE] == AC.ONLINE:
         text = "Fully charged"
     else:
         # AC without any battery
-        return
+        exit()
 
 data['text'] = text
 data['alt'] = alt

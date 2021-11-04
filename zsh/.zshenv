@@ -19,3 +19,4 @@ export EDITOR="nvim" # cli editor
 export VISUAL=""     # gui editor
 export READER="mupdf"
 export BROWSER="firefox"
+. "$HOME/.cargo/env"

@@ -11,3 +11,4 @@ export BROWSER="firefox"
 
 # Get aliases and functions from .bashrc
 [ -f $HOME/.bashrc ] && source $HOME/.bashrc
+. "$HOME/.cargo/env"

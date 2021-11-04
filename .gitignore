@@ -12,3 +12,4 @@ mpd/.config/mpd/pid
 mpd/.config/mpd/state
 newsboat/.config/newsboat/urls
 newsboat/.config/newsboat/history.cmdline
+pijul/.config/pijul/secretkey.json

@@ -67,6 +67,8 @@
 exec dbus-daemon --session --address=unix:path=$XDG_RUNTIME_DIR/bus
 exec mako
 
+exec pkg upgrade -n
+
 # Make non moving mouse cursor invisible
 exec unclutter -idle 1 -jitter 1
 
@@ -257,6 +259,7 @@ exec swayidle -w \
 # Software:
 #
 	bindsym $mod+Return exec $terminal
+	
 
 	bindsym $mod+f exec $file_manager
 

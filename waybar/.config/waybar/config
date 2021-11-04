@@ -185,7 +185,7 @@
 		"exec": "curl 'https://wttr.in/?format=1' | sed s/+//",
 		"tooltip": "curl https://wttr.in/?format=4 | sed s/+//",
 		"interval": 1800,
-		"on-click": "$BROWSER https://www.google.com/search?q=weather"
+		"on-click": "$BROWSER https://regenampel.de/?location=Markgrafstra%C3%9Fe%2C+Hannover+%5B30419%5D&destination=&speed=0"
 	},
 
 	"custom/network": {

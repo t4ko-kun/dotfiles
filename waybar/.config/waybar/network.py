@@ -32,7 +32,8 @@ def get_ssid(interface):
     info = shlex.quote(ifconfig(interface))
     echo = subprocess.Popen('echo ' + info, shell=True, stdout=subprocess.PIPE)
     grep1 = subprocess.Popen("grep ssid", shell=True, stdin=echo.stdout, stdout=subprocess.PIPE)
-    grep2 = subprocess.Popen(''' grep -o '\".*\"' ''', shell=True, stdin=grep1.stdout, stdout=subprocess.PIPE)
+    #grep2 = subprocess.Popen(''' grep -o '\".*\"' ''', shell=True, stdin=grep1.stdout, stdout=subprocess.PIPE)
+    grep2 = subprocess.Popen(" awk  '{print $2}' ", shell=True, stdin=grep1.stdout, stdout=subprocess.PIPE)
     sed = subprocess.check_output(''' sed 's/\"//g' ''', shell=True, stdin=grep2.stdout)
     # Remove trailing newline
     sed = sed[:-1]

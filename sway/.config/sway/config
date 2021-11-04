@@ -42,7 +42,7 @@
 #
 	set $terminal $TERM
 	set $browser $BROWSER
-	set $file_manager $terminal -e lf
+	set $file_manager $terminal -e xplr
 	set $editor $terminal -e $EDITOR
 	#set $editor $VISUAL
 	set $mail thunderbird

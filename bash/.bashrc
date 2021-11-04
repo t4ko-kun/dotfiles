@@ -52,9 +52,17 @@ git_info() {
 	( echo -n $curr_branch || echo -n " "; echo -n $ahead_behind; ) | sed 's/\(.*\)\(↓.*\)/─( \1 \2)/'
 }
 
+set -o vi
 PS1='\n┌[\e[1;39m\u\e[m@\e[1;31m\h\e[m]─[\e[1;34m\w\e[m]$(git_info)\nλ '
 #╼
-set -o vi
 bind 'set show-mode-in-prompt on'
 bind 'set vi-ins-mode-string └[\1\e[0;32m\2i\1\e[m\2]'
 bind 'set vi-cmd-mode-string └[\1\e[0;34m\2c\1\e[m\2]'
+
+if command -v starship &> /dev/null
+then
+	bind 'set show-mode-in-prompt off'
+	eval "$(starship init bash)"
+fi
+
+. "$HOME/.cargo/env"

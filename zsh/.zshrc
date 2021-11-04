@@ -30,6 +30,7 @@ alias ll='ls -l'
 alias lla='la -l'
 
 alias rd='rm -r'
+
 alias gbs='git status -bs'
 alias lg='lazygit'
 
@@ -48,7 +49,6 @@ DIRECTORY='%~'
 
 # Command hook which is executed before a prompt is printed
 precmd() {
-	print ""
 }
 
 # Load version control information if available
@@ -60,3 +60,12 @@ fi
 # Bold text %B<text>%b
 PROMPT='┌[%F{red}%B${USERNAME}%b%f@%B${HOSTNAME}%b]─[%F{blue}%B${DIRECTORY}%b%f]${vcs_info_msg_0_}${NEWLINE}└[i]λ '
 RPROMPT='[%F{magenta}%T%f]'
+
+# Use Starship prompt
+eval "$(starship init zsh)"
+
+# Advanced autompletion
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=7"
+ZSH_AUTOSUGGEST_STRATEGY=(completion history)
+bindkey '^ ' autosuggest-accept

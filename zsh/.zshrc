@@ -29,6 +29,7 @@ alias la='ls -a'
 alias ll='ls -l'
 alias lla='la -l'
 
+alias rd='rm -r'
 alias gbs='git status -bs'
 alias lg='lazygit'
 

@@ -4,6 +4,7 @@
 call plug#begin()		" specify installed plugins
 	" Programming
 	Plug 'neovim/nvim-lspconfig'
+	Plug 'cespare/vim-toml', { 'branch': 'main' }
 	" Plug 'nvim-lua/completion-nvim'
 	Plug 'nvim-treesitter/nvim-treesitter'
 	Plug 'jiangmiao/auto-pairs'

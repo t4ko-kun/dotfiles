@@ -4,6 +4,7 @@
 # All environment variable definitions should go in here
 
 # Extend runtime path
+export PATH="$PATH:$HOME/.local/bin"
 export PATH="$PATH:$HOME/Programs"
 export PATH="$PATH:$HOME/Scripts"
 

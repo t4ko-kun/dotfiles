@@ -42,7 +42,7 @@
 #
 	# Disabled until FreeBSD switches from termcap to terminfo
 	#set $terminal $TERM
-	set $terminal alacritty
+	set $terminal wezterm
 	set $browser $BROWSER
 	set $file_manager $terminal -e xplr
 	set $editor $terminal -e $EDITOR

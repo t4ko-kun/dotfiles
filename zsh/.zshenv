@@ -7,6 +7,9 @@
 export PATH="$PATH:$HOME/.local/bin"
 export PATH="$PATH:$HOME/Programs"
 export PATH="$PATH:$HOME/Scripts"
+export PATH="$PATH:$HOME/.cargo/bin"
+
+export RUST_SRC_PATH="$(rustc --print sysroot)/lib/rustlib/src/rust/src"
 
 # XDG setup for Wayland Sessions
 export XDG_RUNTIME_DIR="/tmp/`id -u`-runtime-dir"

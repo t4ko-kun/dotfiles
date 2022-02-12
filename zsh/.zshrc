@@ -24,14 +24,21 @@ alias vi='nvim'
 alias vim='nvim'
 
 alias ls='ls --color=auto'
+
+# Use lsd as ls if it's in PATH
+if type "lsd" > /dev/null; then
+  alias ls='lsd -1L'
+  alias lst='ls --tree'
+fi
+
 alias l='ls'
-alias la='ls -a'
 alias ll='ls -l'
+alias la='ls -a'
 alias lla='la -l'
 
-alias rd='rm -r'
+alias rmd='rm -r'
 
-alias gbs='git status -bs'
+alias gss='git status -bs'
 alias lg='lazygit'
 
 # Screenshot in wayland

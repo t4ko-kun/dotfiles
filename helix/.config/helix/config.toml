@@ -1,0 +1,35 @@
+theme = "dark_plus"
+
+[editor]
+line-number = "relative"
+mouse = false
+cursorline = true
+color-modes = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.statusline]
+left = ["mode", "spinner", "spacer", "file-name"]
+right = ["diagnostics", "selections", "position", "file-encoding", "file-type"]
+
+[editor.file-picker]
+hidden = false
+
+[keys.normal]
+h = "collapse_selection"
+j = "move_char_left"
+k = "move_line_down"
+l = "move_line_up"
+";" = "move_char_right"
+K = "join_selections"
+L = "keep_selections"
+
+[keys.select]
+h = "collapse_selection"
+j = "extend_char_left"
+k = "extend_line_down"
+l = "extend_line_up"
+";" = "extend_char_right"

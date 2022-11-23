@@ -18,7 +18,7 @@ test -d "$XDG_RUNTIME_DIR" || { mkdir "$XDG_RUNTIME_DIR" ; chmod 700 "$XDG_RUNTI
 export LANGUAGE="de"
 export TERM="xterm"
 export PAGER="less"
-export EDITOR="nvim" # cli editor
+export EDITOR="hx" # cli editor
 export VISUAL=""     # gui editor
 export READER="mupdf"
 export BROWSER="firefox"

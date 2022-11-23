@@ -20,6 +20,7 @@ compinit
 # End of lines added by compinstall
 
 # Aliases
+alias o='xdg-open'
 alias vi='nvim'
 alias vim='nvim'
 
@@ -68,11 +69,12 @@ fi
 PROMPT='┌[%F{red}%B${USERNAME}%b%f@%B${HOSTNAME}%b]─[%F{blue}%B${DIRECTORY}%b%f]${vcs_info_msg_0_}${NEWLINE}└[i]λ '
 RPROMPT='[%F{magenta}%T%f]'
 
+# Advanced autompletion
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#AAAAAA"
+ZSH_AUTOSUGGEST_STRATEGY=(completion history)
+bindkey '^ ' autosuggest-accept
+#
 # Use Starship prompt
 eval "$(starship init zsh)"
 
-# Advanced autompletion
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=7"
-ZSH_AUTOSUGGEST_STRATEGY=(completion history)
-bindkey '^ ' autosuggest-accept

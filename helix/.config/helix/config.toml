@@ -18,6 +18,7 @@ right = ["diagnostics", "selections", "position", "file-encoding", "file-type"]
 [editor.file-picker]
 hidden = false
 
+# touch typing friendly motions
 [keys.normal]
 h = "collapse_selection"
 j = "move_char_left"
@@ -26,6 +27,7 @@ l = "move_line_up"
 ";" = "move_char_right"
 K = "join_selections"
 L = "keep_selections"
+c = ["trim_selections", "change_selection"]
 
 [keys.select]
 h = "collapse_selection"
@@ -33,3 +35,34 @@ j = "extend_char_left"
 k = "extend_line_down"
 l = "extend_line_up"
 ";" = "extend_char_right"
+
+[keys.normal."g"]
+h = "no_op"
+j = "goto_line_start"
+k = "goto_last_line"
+l = "goto_file_start"
+";" = "goto_line_end"
+
+[keys.normal."C-w"]
+h = "no_op"
+j = "jump_view_left"
+k = "jump_view_down"
+l = "jump_view_up"
+";" = "jump_view_right"
+H = "no_op"
+J = "swap_view_left"
+K = "swap_view_down"
+L = "swap_view_up"
+":" = "swap_view_right"
+
+[keys.normal."space"."w"]
+h = "no_op"
+j = "jump_view_left"
+k = "jump_view_down"
+l = "jump_view_up"
+";" = "jump_view_right"
+H = "no_op"
+J = "swap_view_left"
+K = "swap_view_down"
+L = "swap_view_up"
+":" = "swap_view_right"

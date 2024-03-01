@@ -1,5 +1,5 @@
 set -x XDG_CONFIG_HOME $HOME/.config
-set -x XDG_RUNTIME_DIR "/tmp/(id -u)-runtime-dir"
+set -x XDG_RUNTIME_DIR "/tmp/$(id -u)-runtime-dir"
 test -d "$XDG_RUNTIME_DIR"; or begin; 
     mkdir "$XDG_RUNTIME_DIR";
     chmod 700 "$XDG_RUNTIME_DIR"

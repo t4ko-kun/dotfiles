@@ -1,0 +1,27 @@
+# sol
+[colors]
+foreground = "#E5E5E5"
+background = "#121212"
+cursor_bg = "#E5E5E5"
+cursor_border = "#E5E5E5"
+cursor_fg = "#232322"
+selection_bg = "#DFDFDF"
+selection_fg = "#3D3D3D"
+
+ansi = ["#212122",
+	"#B7141F",
+	"#458B34",
+	"#F6981E",
+	"#134EB2",
+	"#560088",
+	"#0E717C",
+	"#EFEFEF"]
+
+brights = ["#424242",
+	   "#E83B3F",
+	   "#75BA7A",
+	   "#FFEA2E",
+	   "#54A4F3",
+	   "#AA4DBC",
+	   "#26BBD1",
+	   "#D9D9D9"]
